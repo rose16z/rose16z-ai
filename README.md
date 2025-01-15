@@ -9,10 +9,10 @@
 	<em>Crafting Tomorrow's AI, One Line at a Time.</em>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/github/license/Karimium0/RoseAI?style=default&logo=opensourceinitiative&logoColor=white&color=ffc500" alt="license">
-	<img src="https://img.shields.io/github/last-commit/Karimium0/RoseAI?style=default&logo=git&logoColor=white&color=ffc500" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/Karimium0/RoseAI?style=default&color=ffc500" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/Karimium0/RoseAI?style=default&color=ffc500" alt="repo-language-count">
+	<img src="https://img.shields.io/github/license/rose16z/rose16z-ai?style=default&logo=opensourceinitiative&logoColor=white&color=ffc500" alt="license">
+	<img src="https://img.shields.io/github/last-commit/rose16z/rose16z-ai?style=default&logo=git&logoColor=white&color=ffc500" alt="last-commit">
+	<img src="https://img.shields.io/github/languages/top/rose16z/rose16z-ai?style=default&color=ffc500" alt="repo-top-language">
+	<img src="https://img.shields.io/github/languages/count/rose16z/rose16z-ai?style=default&color=ffc500" alt="repo-language-count">
 </p>
 <p align="center"><!-- default option, no dependency badges. -->
 </p>
@@ -90,23 +90,23 @@ RoseAI revolutionizes the creation of AI-driven Twitter agents, simplifying the 
 		<blockquote>
 			<table>
 			<tr>
-				<td><b><a href='https://github.com/Karimium0/RoseAI/blob/master/next.config.ts'>next.config.ts</a></b></td>
+				<td><b><a href='https://github.com/rose16z/rose16z-ai/blob/master/next.config.ts'>next.config.ts</a></b></td>
 				<td>- Configures the Next.js framework settings for the application, specifying options that tailor the behavior of both server-side and client-side rendering<br>- The configuration ensures optimal performance and compatibility across different deployment environments, aligning with the overall architecture to enhance scalability and maintainability of the web application.</td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/Karimium0/RoseAI/blob/master/tsconfig.json'>tsconfig.json</a></b></td>
+				<td><b><a href='https://github.com/rose16z/rose16z-ai/blob/master/tsconfig.json'>tsconfig.json</a></b></td>
 				<td>- Configures TypeScript for a web development environment, targeting ES2017 and supporting JSX, with strict type-checking and module resolution tailored for bundlers<br>- It enhances interoperability and performance by allowing JavaScript inclusion and enabling incremental compilation<br>- The configuration also customizes path resolutions to simplify imports within the project.</td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/Karimium0/RoseAI/blob/master/postcss.config.mjs'>postcss.config.mjs</a></b></td>
+				<td><b><a href='https://github.com/rose16z/rose16z-ai/blob/master/postcss.config.mjs'>postcss.config.mjs</a></b></td>
 				<td>- Configures PostCSS to integrate with TailwindCSS, enhancing the project's CSS processing capabilities<br>- By setting up this configuration, it ensures that styles are effectively managed and optimized across the development and production environments, contributing to a streamlined workflow and maintaining consistency in style rendering throughout the application.</td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/Karimium0/RoseAI/blob/master/package.json'>package.json</a></b></td>
+				<td><b><a href='https://github.com/rose16z/rose16z-ai/blob/master/package.json'>package.json</a></b></td>
 				<td>- Defines the metadata and operational settings for the "roseai" project, specifying its dependencies and scripts for development and production environments<br>- It configures the project to use frameworks and libraries such as Next.js, React, and Axios, and sets up commands for building, starting, and linting the application.</td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/Karimium0/RoseAI/blob/master/tailwind.config.ts'>tailwind.config.ts</a></b></td>
+				<td><b><a href='https://github.com/rose16z/rose16z-ai/blob/master/tailwind.config.ts'>tailwind.config.ts</a></b></td>
 				<td>- Tailwind.config.ts configures TailwindCSS for a project, specifying which directories contain UI components and pages to apply styles<br>- It extends the theme with custom colors for background and foreground, enhancing the visual consistency across the application<br>- This setup ensures that the styling framework efficiently handles design scalability and maintenance within the project's architecture.</td>
 			</tr>
 			</table>
@@ -120,15 +120,15 @@ RoseAI revolutionizes the creation of AI-driven Twitter agents, simplifying the 
 				<blockquote>
 					<table>
 					<tr>
-						<td><b><a href='https://github.com/Karimium0/RoseAI/blob/master/src/app/layout.tsx'>layout.tsx</a></b></td>
+						<td><b><a href='https://github.com/rose16z/rose16z-ai/blob/master/src/app/layout.tsx'>layout.tsx</a></b></td>
 						<td>- Defines the foundational layout and styling for the Rose AI application, setting up global fonts and basic metadata<br>- It configures two font styles and applies them to the body of the application, ensuring a consistent typographic experience<br>- Additionally, it establishes essential metadata for the application, enhancing its discoverability and relevance in web contexts.</td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/Karimium0/RoseAI/blob/master/src/app/globals.css'>globals.css</a></b></td>
+						<td><b><a href='https://github.com/rose16z/rose16z-ai/blob/master/src/app/globals.css'>globals.css</a></b></td>
 						<td>- Globals.css establishes the foundational CSS styling for the application, integrating Tailwind CSS for responsive design and setting global color schemes, including a dark mode preference<br>- It also defines key animations and basic typography, ensuring a consistent visual experience across the application while allowing for theme adaptability and dynamic user interface elements.</td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/Karimium0/RoseAI/blob/master/src/app/page.tsx'>page.tsx</a></b></td>
+						<td><b><a href='https://github.com/rose16z/rose16z-ai/blob/master/src/app/page.tsx'>page.tsx</a></b></td>
 						<td>- AgentGenerator in src/app/page.tsx enables the dynamic creation of AI-driven Twitter agents based on user descriptions<br>- Users input specifications, which are processed to generate and display custom agent code<br>- Features include real-time status updates and the ability to copy the generated code to the clipboard.</td>
 					</tr>
 					</table>
@@ -157,7 +157,7 @@ Install RoseAI using one of the following methods:
 
 1. Clone the RoseAI repository:
 ```sh
-❯ git clone https://github.com/Karimium0/RoseAI
+❯ git clone https://github.com/rose16z/rose16z-ai
 ```
 
 2. Navigate to the project directory:
@@ -216,9 +216,9 @@ Run RoseAI using the following command:
 
 ## 🔰 Contributing
 
-- **💬 [Join the Discussions](https://github.com/Karimium0/RoseAI/discussions)**: Share your insights, provide feedback, or ask questions.
-- **🐛 [Report Issues](https://github.com/Karimium0/RoseAI/issues)**: Submit bugs found or log feature requests for the `RoseAI` project.
-- **💡 [Submit Pull Requests](https://github.com/Karimium0/RoseAI/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
+- **💬 [Join the Discussions](https://github.com/rose16z/rose16z-ai/discussions)**: Share your insights, provide feedback, or ask questions.
+- **🐛 [Report Issues](https://github.com/rose16z/rose16z-ai/issues)**: Submit bugs found or log feature requests for the `RoseAI` project.
+- **💡 [Submit Pull Requests](https://github.com/rose16z/rose16z-ai/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
 
 <details closed>
 <summary>Contributing Guidelines</summary>
@@ -226,7 +226,7 @@ Run RoseAI using the following command:
 1. **Fork the Repository**: Start by forking the project repository to your github account.
 2. **Clone Locally**: Clone the forked repository to your local machine using a git client.
    ```sh
-   git clone https://github.com/Karimium0/RoseAI
+   git clone https://github.com/rose16z/rose16z-ai
    ```
 3. **Create a New Branch**: Always work on a new branch, giving it a descriptive name.
    ```sh
@@ -249,8 +249,8 @@ Run RoseAI using the following command:
 <summary>Contributor Graph</summary>
 <br>
 <p align="left">
-   <a href="https://github.com{/Karimium0/RoseAI/}graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=Karimium0/RoseAI">
+   <a href="https://github.com{/rose16z/rose16z-ai/}graphs/contributors">
+      <img src="https://contrib.rocks/image?repo=rose16z/rose16z-ai">
    </a>
 </p>
 </details>
