@@ -155,7 +155,7 @@ export default function AgentGenerator() {
               <img src="twitter.png" alt="Logo 1" className="h-12 w-auto" />
             </a>
             <a
-              href="https://github.com/Karimium0/RoseAI"
+              href="https://github.com/rose16z/rose16z-ai"
               target="_blank"
               rel="noopener noreferrer"
             >
