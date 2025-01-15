@@ -1,7 +1,8 @@
  
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/904d8cc9-6d6f-4700-b76c-1751acd9c7ae" align="center" width="30%">
-</p> 
+    <img src="(https://github.com/user-attachments/assets/6075717b-9603-46bb-81b0-f4303302b19c)" align="center" width="50%">
+</p>  
+
 
 <p align="center"><h1 align="center">ROSEAI</h1></p>
 <p align="center">
