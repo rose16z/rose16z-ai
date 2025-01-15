@@ -4,7 +4,7 @@
 </p>  
 
 
-<p align="center"><h1 align="center">ROSEAI</h1></p>
+<p align="center"><h1 align="center">rose16z</h1></p>
 <p align="center">
 	<em>Crafting Tomorrow's AI, One Line at a Time.</em>
 </p>
@@ -41,7 +41,7 @@
 
 ## 📍 Overview
 
-RoseAI revolutionizes the creation of AI-driven Twitter agents, simplifying the process for users to generate custom agents based on specific descriptions. With features like real-time updates and easy code copying, it's designed for developers and social media managers seeking to enhance online engagement efficiently. RoseAI combines robust, scalable web technologies to ensure a seamless, stylistic user experience.
+rose16z revolutionizes the creation of AI-driven Twitter agents, simplifying the process for users to generate custom agents based on specific descriptions. With features like real-time updates and easy code copying, it's designed for developers and social media managers seeking to enhance online engagement efficiently. rose16z combines robust, scalable web technologies to ensure a seamless, stylistic user experience.
 
 ---
 
@@ -63,7 +63,7 @@ RoseAI revolutionizes the creation of AI-driven Twitter agents, simplifying the 
 ## 📁 Project Structure
 
 ```sh
-└── RoseAI/
+└── rose16z/
     ├── README.md
     ├── next.config.ts
     ├── package.json
@@ -84,7 +84,7 @@ RoseAI revolutionizes the creation of AI-driven Twitter agents, simplifying the 
 
 ### 📂 Project Index
 <details open>
-	<summary><b><code>ROSEAI/</code></b></summary>
+	<summary><b><code>rose16z/</code></b></summary>
 	<details> <!-- __root__ Submodule -->
 		<summary><b>__root__</b></summary>
 		<blockquote>
@@ -103,7 +103,7 @@ RoseAI revolutionizes the creation of AI-driven Twitter agents, simplifying the 
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/rose16z/rose16z-ai/blob/master/package.json'>package.json</a></b></td>
-				<td>- Defines the metadata and operational settings for the "roseai" project, specifying its dependencies and scripts for development and production environments<br>- It configures the project to use frameworks and libraries such as Next.js, React, and Axios, and sets up commands for building, starting, and linting the application.</td>
+				<td>- Defines the metadata and operational settings for the "rose16z" project, specifying its dependencies and scripts for development and production environments<br>- It configures the project to use frameworks and libraries such as Next.js, React, and Axios, and sets up commands for building, starting, and linting the application.</td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/rose16z/rose16z-ai/blob/master/tailwind.config.ts'>tailwind.config.ts</a></b></td>
@@ -143,7 +143,7 @@ RoseAI revolutionizes the creation of AI-driven Twitter agents, simplifying the 
 
 ### ☑️ Prerequisites
 
-Before getting started with RoseAI, ensure your runtime environment meets the following requirements:
+Before getting started with rose16z, ensure your runtime environment meets the following requirements:
 
 - **Programming Language:** TypeScript
 - **Package Manager:** Yarn, Npm
@@ -151,18 +151,18 @@ Before getting started with RoseAI, ensure your runtime environment meets the fo
 
 ### ⚙️ Installation
 
-Install RoseAI using one of the following methods:
+Install rose16z using one of the following methods:
 
 **Build from source:**
 
-1. Clone the RoseAI repository:
+1. Clone the rose16z repository:
 ```sh
 ❯ git clone https://github.com/rose16z/rose16z-ai
 ```
 
 2. Navigate to the project directory:
 ```sh
-❯ cd RoseAI
+❯ cd rose16z
 ```
 
 3. Install the project dependencies:
@@ -185,7 +185,7 @@ Install RoseAI using one of the following methods:
 
 
 ### 🤖 Usage
-Run RoseAI using the following command:
+Run rose16z using the following command:
 **Using `yarn`** &nbsp; [<img align="center" src="" />]()
 
 ```sh
@@ -217,7 +217,7 @@ Run RoseAI using the following command:
 ## 🔰 Contributing
 
 - **💬 [Join the Discussions](https://github.com/rose16z/rose16z-ai/discussions)**: Share your insights, provide feedback, or ask questions.
-- **🐛 [Report Issues](https://github.com/rose16z/rose16z-ai/issues)**: Submit bugs found or log feature requests for the `RoseAI` project.
+- **🐛 [Report Issues](https://github.com/rose16z/rose16z-ai/issues)**: Submit bugs found or log feature requests for the `rose16z` project.
 - **💡 [Submit Pull Requests](https://github.com/rose16z/rose16z-ai/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
 
 <details closed>
